@@ -280,8 +280,8 @@ void intro()
  cout<<"BILLING";
  gotoxy(35,17);
  cout<<"PROJECT";
- cout<<"\n\nMADE BY : ANUJ KUMAR";
- cout<<"\n\nSCHOOL : RYAN INTERNATIONAL SCHOOL";
+ cout<<"\n\nMADE BY : HARSHIT MAHESHWARI";
+ cout<<"\n\nSCHOOL : HANSRAJ SMARAK SENIOR SECONDRY SCHOOL";
  getch();
 
 }
